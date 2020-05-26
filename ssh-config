@@ -1,0 +1,4 @@
+Host dev
+     User root
+     HostName xx.xx.xx.xx
+     Port 22
